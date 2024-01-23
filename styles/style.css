@@ -26,6 +26,7 @@ html {
     font-weight: 700;
     font-family: "Outfit", sans-serif;
     text-align: center;
+    text-wrap: wrap;
     
 }
 
@@ -34,4 +35,5 @@ html {
     font-weight: 400;
     font-family: "Outfit", sans-serif;
     text-align: center;
+    text-wrap: wrap;
 }
